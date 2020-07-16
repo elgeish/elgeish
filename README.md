@@ -20,7 +20,7 @@ I'm passionate about machine learning, big data, debugging, software craftsmansh
 Mohamed is Director of AI for Cisco's Contact Center solutions. Cisco has recently acquired Voicea, where Mohamed was a Co-Founder and Chief Architect; he also worked on ASR, NLP, and interacting with EVA (the Enterprise Voice Assistant). At LinkedIn and Microsoft, Mohamed led AI and big data teams that served hundreds of millions of users. Mohamed co-authored a book, [Computing with Data](https://computingwithdata.com/), that explores the big data industry; he has also been teaching Machine Learning as a teaching assistant at Stanford.
 
 ### Computing with Data
-[<img align="right" width="240px" src="https://computingwithdata.com/assets/img/book-cover.jpg" alt="Book Cover" />](https://computingwithdata.com)
+[<img align="right" width="250px" src="https://computingwithdata.com/assets/img/book-cover.jpg" alt="Book Cover" />](https://computingwithdata.com)
 
 * Booksite: https://computingwithdata.com
 * [View on Amazon](https://www.amazon.com/gp/product/331998148X)
