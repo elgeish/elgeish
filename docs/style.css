@@ -12,7 +12,7 @@ body {
 .wrapper {
   display: grid;
   grid-template-columns: repeat(5, 20vmin);
-  grid-template-rows: repeat(5, 20vmin);
+  grid-template-rows: repeat(6, 20vmin);
   width: 40vw;
   height: 40vh;
   margin-top: 25%;
@@ -87,4 +87,8 @@ div.box {
 .book {
   background-image: url(img/book.jpg);
   background-size: 100%;
+}
+
+.medium {
+  background-color: #151210;
 }
