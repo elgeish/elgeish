@@ -60,6 +60,10 @@ div.box {
   padding-bottom: 0.5em;
 }
 
+.huggingface {
+  border: 1px solid #006cd7;
+}
+
 .scholar {
   background-color: #4186f4;
 }
