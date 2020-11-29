@@ -5,7 +5,6 @@
 body {
   margin: 0;
   padding: 0;
-  overflow: hidden;
   font-family: monospace;
 }
 
@@ -14,8 +13,7 @@ body {
   grid-template-columns: repeat(5, 20vmin);
   grid-template-rows: repeat(6, 20vmin);
   width: 40vw;
-  height: 40vh;
-  margin-top: 25%;
+  margin-top: 5%;
   margin-left: 25%;
   justify-content: center;
   align-content: center;
