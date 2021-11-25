@@ -8,6 +8,14 @@ body {
   font-family: monospace;
 }
 
+section.bio {
+  width: 100%;
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+  margin-top: 0%;
+}
+
 .wrapper {
   display: grid;
   grid-template-columns: repeat(5, 20vmin);
@@ -35,6 +43,9 @@ img.logo {
 }
 
 @media (min-width: 1342px) {
+  section.bio {
+    margin-top: -20%;
+  }
   .wrapper {
     transform: rotate(-45deg);
   }
