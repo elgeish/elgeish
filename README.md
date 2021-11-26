@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 I'm passionate about machine learning, big data, debugging, software craftsmanship, teaching, coaching, building engineering organizations that solve challenging problems effectively, helping others with their aspirations, and writing. My personal mission is to empower people around the world to communicate securely and more efficiently using services that provide great experiences.
 
 #### Bio
-Mohamed is a Senior Manager at Amazon and Head of Alexa Speaker Recognition. He was Director of AI at Cisco, which [acquired Voicea](https://www.cisco.com/c/en/us/about/corporate-strategy-office/acquisitions/voicea.html) (now [Webex Assistant](https://www.cisco.com/c/en/us/products/collateral/conferencing/webex-meetings/at-a-glance-c45-744053.html)), where Mohamed was a Co-Founder and Chief Architect; he also worked on ASR, NLP, and interacting with EVA (the Enterprise Voice Assistant). At LinkedIn and Microsoft, Mohamed led AI and big data teams that served hundreds of millions of users. Mohamed co-authored a book, [Computing with Data](https://computingwithdata.com/), which explores the big data industry. He also was a Teaching Assistant for Machine Learning (CS229) and Deep Learning (CS230) at Stanford University.
-Mohamed is an avid [calligrapher](https://www.facebook.com/elgeishArtCorner) and [photographer](https://www.istockphoto.com/portfolio/elgeish?assettype=image&sort=mostpopular); in 2011, [one of his shots](https://www.istockphoto.com/photo/three-little-turtles-getting-ready-to-dive-into-a-pond-gm91769997-9703250) made it as Bing.com's wallpaper; a few more got published in books after that. Before COVID-19, Mohamed loved to travel.
+https://elgeish.com
 
 ### Computing with Data
 [<img align="right" width="250px" src="https://computingwithdata.com/assets/img/book-cover.jpg" alt="Book Cover" />](https://computingwithdata.com)
