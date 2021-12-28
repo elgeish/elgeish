@@ -6,23 +6,24 @@ body {
   margin: 0;
   padding: 0;
   font-family: monospace;
+  display: grid;
+  grid-template-areas:
+    'icons'
+    'bio';
 }
 
 section.bio {
-  width: 100%;
+  grid-area: bio;
   text-align: center;
-  padding-left: 30%;
-  padding-right: 30%;
-  margin-top: 0%;
+  padding: 5%;
+  z-index: 1;
 }
 
-.wrapper {
+section.icons {
+  grid-area: icons;
   display: grid;
   grid-template-columns: repeat(5, 20vmin);
   grid-template-rows: repeat(6, 20vmin);
-  width: 40vw;
-  margin-top: 3%;
-  margin-left: 25%;
   justify-content: center;
   align-content: center;
 }
@@ -43,10 +44,14 @@ img.logo {
 }
 
 @media (min-width: 1342px) {
-  section.bio {
-    margin-top: -20%;
+  body {
+    grid-template-areas: 'bio icons empty empty';
   }
-  .wrapper {
+  section.bio {
+    width: 20vw;
+  }
+  section.icons {
+    margin-top: 7%;
     transform: rotate(-45deg);
   }
   img.logo {
