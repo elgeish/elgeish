@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ### About
-I'm passionate about machine learning, big data, debugging, software craftsmanship, teaching, coaching, building engineering organizations that solve challenging problems effectively, helping others with their aspirations, and writing. My personal mission is to empower people around the world to communicate securely and more efficiently using services that provide great experiences.
+I'm passionate about machine learning, big data, debugging, software craftsmanship, teaching, coaching, building engineering organizations that solve challenging problems effectively, helping others with their aspirations, and writing about the above.
+
+My personal mission is to empower people around the globe to collaborate more effectively using software that provides great experiences.
 
 #### Bio
 https://elgeish.com
