@@ -69,18 +69,18 @@ img.logo {
   background-color: #421f13;
 }
 
-#twitter {
-  background-color: #1da1f2;
-}
-
 #github {
   background-color: #181616;
 }
 
-#qcon {
-  background-color: #f9f9fb;
+#aiqcon {
+  background-color: black;
 }
 
 #medium {
   background-color: #151210;
+}
+
+#x {
+  background-color: white;
 }
