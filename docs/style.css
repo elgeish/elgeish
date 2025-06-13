@@ -34,13 +34,15 @@ a.box {
   text-align: center;
   min-height: 230px;
   max-height: 230px;
-  border: 1px dotted lightgray;
 }
 
 a.box:hover {
   transition: 0.2s;
   transform: scale(1.1);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(2px) saturate(180%);
+  border-radius: 2rem;
+  border: 1px solid rgba(255, 255, 255, 0.15);
 }
 
 img.logo {
@@ -61,12 +63,13 @@ img.logo {
 }
 
 #computingwithdata {
-  background-image: url(img/book.jpg);
+  background-image: url(img/computingwithdata.jpg);
   background-size: 100%;
 }
 
-#mlrw {
-  background-color: #421f13;
+#shippingmlsystems {
+  background-image: url(img/shippingmlsystems.png);
+  background-size: 100%;
 }
 
 #github {
